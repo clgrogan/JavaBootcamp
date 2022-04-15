@@ -47,5 +47,14 @@ public class MathOperationsEx04 {
     counter -= 3;
     System.out.println("I count: " + counter);
 
+    // Just for giggles
+    int apples = 5;
+    int bananas = 10;
+    System.out.println("\nint apples = 5;\nint bananas = 10;");
+    System.out.println("\nSystem.out.println(\"John has \" + apples + bananas + \" fruits\")");
+    System.out.println("\tYields...\nJohn has " + apples + bananas + " fruits");
+    System.out.println("\nSystem.out.println(\"John has \" + apples + bananas * apples + \" fruits\")");
+    System.out.println("\tYields...\nJohn has " + apples + bananas * apples + " fruits");
+    System.out.println();
   }
 }
