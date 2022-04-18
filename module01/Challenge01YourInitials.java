@@ -1,4 +1,4 @@
-public class YourInitialsChallenge01 {
+public class Challange01YourInitials {
   public static void main(String[] args) {
     System.out.println("\n"
         + " CCC \s\s GGG " + "\n"
