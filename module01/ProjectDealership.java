@@ -37,7 +37,18 @@ public class ProjectDealership {
                     System.out.println("We don't sell cars under $10,000. Sorry, dude!");
                 }
                 break;
-            case "b": System.out.println("You chose " + userString);break;
+            case "b":
+                System.out.println("\nWhat is your car's value?");
+                double value = scanner.nextDouble();
+                System.out.println("\nWhat is your selling price?");
+                double price = scanner.nextDouble();
+                scanner.nextLine();
+                if (value >= price && price < 30000) {
+                    System.out.println("\nWe will buy your car. Pleasure doing business with you.");
+                } else {
+                    System.out.println("\nNo thanks. We don't want your bucket.");
+                }
+            break;
             default: System.out.println("Enter an 'a' to buy a car or 'b' to sell a car...");break;
         }
 
