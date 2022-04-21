@@ -1,4 +1,4 @@
-public class TypeConversionEx04 {
+public class ExTypeConversion {
   public static void main(String[] args) {
     double salary = 5833.63333;
     System.out

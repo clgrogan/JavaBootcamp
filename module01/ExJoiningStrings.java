@@ -1,4 +1,4 @@
-public class JoiningStringsEx04 {
+public class ExJoiningStrings {
   public static void main(String[] args) {
     String sentence = "His name is: ";
     String placeholder = "Harry";

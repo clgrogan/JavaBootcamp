@@ -1,4 +1,4 @@
-public class WholeNumbersEx04 {
+public class ExWholeNumbers {
   public static void main(String[] args) {
 
     int numberOfFans = 5000;

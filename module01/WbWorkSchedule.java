@@ -1,4 +1,4 @@
-public class Wb35WorkSchedule {
+public class WbWorkSchedule {
     
 // Workbook 3.5
 // From Java Bootcamp Resources -> Module 1 -> 3\. Booleans and Conditionals, open Workbook 3.5.

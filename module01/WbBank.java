@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Wb37Bank {
+public class WbBank {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         String hereForMortgage = "";

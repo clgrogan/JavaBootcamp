@@ -1,4 +1,4 @@
-public class BusEx04 {
+public class ExBus {
   public static void main(String[] args) {
     String sentence = "Number of passengers: ";
     System.out.println(sentence);

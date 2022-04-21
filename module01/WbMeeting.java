@@ -1,4 +1,4 @@
-public class Wb24Meeting {
+public class WbMeeting {
     public static void main(String[] args) {
         double sales = 24309.65;
         double profit = 18562.18;

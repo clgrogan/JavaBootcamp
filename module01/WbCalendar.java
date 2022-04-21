@@ -1,4 +1,4 @@
-public class Wb36Calendar {
+public class WbCalendar {
     public static void main(String[] args) {
         String day = "Friday"; //Can be any day.
         day = "friday";

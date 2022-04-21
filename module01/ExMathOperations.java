@@ -1,4 +1,4 @@
-public class MathOperationsEx04 {
+public class ExMathOperations {
   public static void main(String[] args) {
     int bagOfSweets1 = 5;
     int bagOfSweets2 = 10;

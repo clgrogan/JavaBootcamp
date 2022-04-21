@@ -1,4 +1,4 @@
-public class Wb21Points {
+public class WbPoints {
     public static void main(String[] args) {
         int points = 0;
 

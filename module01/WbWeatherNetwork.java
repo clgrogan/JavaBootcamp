@@ -1,4 +1,4 @@
-public class Wb34WeatherNetwork {
+public class WbWeatherNetwork {
     public static void main(String[] args) {
         
 

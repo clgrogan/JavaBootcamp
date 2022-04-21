@@ -1,4 +1,4 @@
-public class Wb22Biography {
+public class WbBiography {
     public static void main(String[] args) {
 
         // make a name variable

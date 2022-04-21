@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Wb25SignUp {
+public class WbSignUp {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

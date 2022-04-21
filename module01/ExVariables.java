@@ -1,4 +1,4 @@
-public class VariablesEx04 {
+public class ExVariables {
   public static void main(String[] args) {
     int people;
     int peopleOnBus;
